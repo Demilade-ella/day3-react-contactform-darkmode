@@ -16,7 +16,7 @@
 
 .theme-toggle-btn {
   position: relative;
-  top: 40px;
+  top: 48px;
   right: -358px;
   background: transparent;
   border: 1px solid var(--btn-border-color);
@@ -104,6 +104,10 @@
   background: rgba(0, 0, 0, 0.05);
   color: #333;
   border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.light-theme label {
+  color: rgba(0, 0, 0, 0.9);
 }
 
 .light-theme .send-btn,
@@ -212,7 +216,7 @@
   .theme-toggle-btn {
     height: 20px;
     width: 40px;
-    margin-left: 100px;
+    margin-left: 200px;
     right: -128px;
   }
 
