@@ -208,7 +208,7 @@
   }
 }
 
-@media (max-width: 1600px) {
+@media (max-width: 1200px) {
   .theme-toggle-btn {
     height: 20px;
     width: 40px;
