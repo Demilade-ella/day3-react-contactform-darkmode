@@ -116,7 +116,7 @@ function ContactForm() {
               <input
                 type="tel"
                 id="phone"
-                value={formData.phonenumber}
+                value={formData.phone}
                 placeholder="123-456-7890"
                 onChange={handleChange}
               />
